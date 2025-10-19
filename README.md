@@ -4,7 +4,7 @@
 
 ---
 
-![coding](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+                       ![coding](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -46,9 +46,9 @@
 - Fast learner & detail-oriented  
 
 ### 🌐 Languages
-- 🇹🇳 Arabic (Native)  
+- 🇹🇳 Arabic (Native)
+- 🇬🇧 English (Professional)  
 - 🇫🇷 French (Professional)  
-- 🇬🇧 English (Intermediate)
 
 ---
 
@@ -90,18 +90,6 @@
 <a href="https://github.com/nidhalgharbi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
 <a href="mailto:nidhalgharbi5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nidhal-gharbi-536140385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhalgharbi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nidhalgharbi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
