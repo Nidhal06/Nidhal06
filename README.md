@@ -1,16 +1,109 @@
-## Hi there 👋
+# 👋 Hi, I'm Nidhal Gharbi  
 
-<!--
-**Nidhal06/Nidhal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** | Passionate about building responsive, scalable, and AI-assisted web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![coding](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 👨‍💻 About Me  
+
+- 📍 Based in **Beja, Tunisia**  
+- 🎓 Pursuing a **Bachelor's Degree in Information Systems Development** at **ISET Beja**  
+- 💻 Certified **Full Stack Developer (Angular & Spring Boot)** — *9antra.tn, The Bridge*  
+- 🤖 Currently training in **Software Development with AI Skills** — *GOMYCODE, Bardo*  
+- 🧩 Experienced in **frontend and backend integration**, **REST APIs**, and **cloud deployment**  
+- ⚙️ Love working with **Angular**, **React**, **Spring Boot**, **Node.js**, **Express**, and **MongoDB**  
+- 💡 Enthusiastic about **AI-powered development**, **modern web frameworks**, and **clean architecture**  
+- 📫 Reach me at: **nidhalgharbi5@gmail.com**  
+- 📞 Phone: **(+216) 99 078 443**
+
+---
+
+## 🧠 Skills & Expertise  
+
+### 💻 Frontend
+- HTML, CSS, JavaScript (ES6+)
+- React.js, Angular, TypeScript
+- Responsive UI & State Management
+
+### ⚙️ Backend
+- Node.js, Express.js, Spring Boot (Java)
+- REST APIs, Authentication, Deployment
+
+### 🗄️ Databases
+- MySQL, MongoDB
+
+### 🧰 Tools & Methodologies
+- Git, GitHub, VS Code, Postman  
+- Cloud Deployment, Agile / SCRUM
+
+### 🧑‍💼 Soft Skills
+- Leadership & teamwork  
+- Problem-solving & adaptability  
+- Fast learner & detail-oriented  
+
+### 🌐 Languages
+- 🇹🇳 Arabic (Native)  
+- 🇫🇷 French (Professional)  
+- 🇬🇧 English (Intermediate)
+
+---
+
+## 🎓 Education  
+
+- 🎓 **B.Sc. Information Systems Development** – *Higher Institute of Technological Studies of Beja* (2021–2025)  
+- 🎓 **Certificate in Full Stack Development (Angular & Spring Boot)** – *9antra.tn / The Bridge* (2025)  
+- 💡 **Software Development Bootcamp with AI Skills** – *GOMYCODE, Bardo* (2025–2026)  
+
+---
+
+## 💼 Experience  
+
+### 🧑‍💻 Final Internship – *Beecoders, Les Berges du Lac 1* (Feb–May 2025)
+- Designed & developed a **Coworking Space Management System**  
+- Built with **Spring Boot** (Backend) and **Angular** (Frontend)
+
+### 💻 Advanced Internship – *Tunisie Telecom, Beja* (Jan–Feb 2024)
+- Developed an **e-commerce website** for Tunisie Telecom products  
+- Technologies: **React JS, Node.js, Express, MongoDB**
+
+### 🌱 Introductory Internship – *Chaaben Technology Group, Ariana* (Jan–Feb 2022)
+- Created a **STE management web application**  
+- Technologies: **HTML, CSS, JavaScript, Node.js, MongoDB**
+
+---
+
+## 🛠 Tech Stack  
+
+| 💡 Front-End | 🔧 Back-End | 🗃️ Database | ☁️ Deployment | 🤖 AI Tools |
+|:-------------:|:------------:|:-------------:|:--------------:|:-------------:|
+| React, Angular, Tailwind CSS | Node.js, Express.js, Spring Boot | MongoDB, MySQL | Cloud, GitHub, Postman | LangChain, OpenAI API |
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="left">
+<a href="https://github.com/nidhalgharbi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+<a href="mailto:nidhalgharbi5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nidhal-gharbi-536140385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhalgharbi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nidhalgharbi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+⭐️ *From [Nidhal Gharbi](https://github.com/nidhalgharbi)*
