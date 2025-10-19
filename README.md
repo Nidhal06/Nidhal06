@@ -74,9 +74,23 @@
 
 ## 🛠 Tech Stack  
 
-| 💡 Front-End | 🔧 Back-End | 🗃️ Database | ☁️ Deployment | 🤖 AI Tools |
-|:-------------:|:------------:|:-------------:|:--------------:|:-------------:|
-| React, Angular, Tailwind CSS | Node.js, Express.js, Spring Boot | MongoDB, MySQL | Cloud, GitHub, Postman | LangChain, OpenAI API |
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind" height="48" alt="Frontend Techs" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" height="48" alt="Backend Techs" />
+  <br/>
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="48" alt="Databases" />
+  <br/>
+  <!-- Tools & Cloud -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" height="48" alt="Tools" />
+  <br/>
+  <!-- AI & Others -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+</p>
 
 ---
 
