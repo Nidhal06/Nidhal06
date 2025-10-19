@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nidhal Gharbi  
 
-🚀 **Full Stack Developer** | Passionate about building responsive, scalable, and AI-assisted web applications.    ---  ![coding](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+🚀 **Full Stack Developer** | Passionate about building responsive, scalable, and AI-assisted web applications.   ![coding](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
