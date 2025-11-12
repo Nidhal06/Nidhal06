@@ -22,7 +22,7 @@
 
 ### 💻 Frontend
 - HTML, CSS, JavaScript (ES6+)
-- React.js, Angular, TypeScript
+- React.js, TypeScript, Tailwind
 - Responsive UI & State Management
 
 ### ⚙️ Backend
@@ -52,16 +52,16 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind" height="48" alt="Frontend Techs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" height="48" alt="Frontend Techs" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" height="48" alt="Backend Techs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" alt="Backend Techs" />
   <br/>
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="48" alt="Databases" />
   <br/>
   <!-- Tools & Cloud -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" height="48" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" height="48" alt="Tools" />
   <br/>
   <!-- AI & Others -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
