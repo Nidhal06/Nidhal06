@@ -39,8 +39,8 @@ Currently focused on mastering **AI-assisted software development**, and always 
 
 <p align="center">
 <a href="mailto:nidhalgharbi5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nidhal-gharbi-536140385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://this-my-resume.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nidhal-gharbi-536140385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://this-my-resume.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" target="_blank" /></a>
 </p>
 
 ---
