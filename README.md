@@ -7,7 +7,7 @@
 </p>
 
 🚀 **Full Stack Developer** | Passionate about building responsive, scalable, and AI-powered web applications.  
-![coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F702631979368530589%2F&psig=AOvVaw0CldjHkYEIUX74eVKCon36&ust=1763039322763000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi1tLbX7JADFQAAAAAdAAAAABAE)
+![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU5a2gyNG40dWhsZ25qcGNkYzJvenFhdTljNGpxZGR6emVpdnk2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif)
 
 ---
 
