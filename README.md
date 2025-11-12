@@ -48,30 +48,6 @@
 
 ---
 
-## 🎓 Education  
-
-- 🎓 **B.Sc. Information Systems Development** – *Higher Institute of Technological Studies of Beja* (2021–2025)  
-- 🎓 **Certificate in Full Stack Development (Angular & Spring Boot)** – *9antra.tn / The Bridge* (2025)  
-- 💡 **Software Development Bootcamp with AI Skills** – *GOMYCODE, Bardo* (2025–2026)  
-
----
-
-## 💼 Experience  
-
-### 🧑‍💻 Final Internship – *Beecoders, Les Berges du Lac 1* (Feb–May 2025)
-- Designed & developed a **Coworking Space Management System**  
-- Built with **Spring Boot** (Backend) and **Angular** (Frontend)
-
-### 💻 Advanced Internship – *Tunisie Telecom, Beja* (Jan–Feb 2024)
-- Developed an **e-commerce website** for Tunisie Telecom products  
-- Technologies: **React JS, Node.js, Express, MongoDB**
-
-### 🌱 Introductory Internship – *Chaaben Technology Group, Ariana* (Jan–Feb 2022)
-- Created a **STE management web application**  
-- Technologies: **HTML, CSS, JavaScript, Node.js, MongoDB**
-
----
-
 ## 🛠 Tech Stack  
 
 <p align="center">
