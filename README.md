@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me  
 
 I'm **Nidhal Gharbi**, a passionate **Full Stack Developer** from **Beja, Tunisia** 🇹🇳
-<img src="https://png.pngtree.com/png-vector/20221007/ourmid/pngtree-tunisia-flag-transparent-watercolor-painted-brush-png-image_6289660.png" width="25" alt="Tunisia Flag" />.
+<img src="https://cdn.countryflags.com/thumbs/tunisia/flag-heart-3d-250.png" width="25" alt="Tunisia Flag" />.
 I love designing and developing modern web applications that merge creativity with technology.  
 Currently focused on mastering **AI-assisted software development**, and always eager to learn, build, and share innovative solutions.  
 
