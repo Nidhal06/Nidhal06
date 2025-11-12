@@ -21,40 +21,14 @@ Currently focused on mastering **AI-assisted software development**, and always 
 
 ---
 
-## 🧠 Skills & Expertise  
-
-### 💻 Frontend
-- HTML, CSS, JavaScript (ES6+)
-- React.js, TypeScript, Tailwind CSS
-- Responsive UI & State Management
-
-### ⚙️ Backend
-- Node.js, Express.js
-- REST APIs, Authentication, Deployment
-
-### 🗄️ Databases
-- MySQL, MongoDB
-
-### 🧰 Tools & Methodologies
-- Git, GitHub, VS Code, Postman  
-- Cloud Deployment, Agile / SCRUM
-
-### 🌐 Languages
-- 🇹🇳 Arabic (Native)
-- 🇬🇧 English (Professional)
-- 🇫🇷 French (Professional)
-
----
-
-## 🛠 Tech Stack  
+## 🧠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" height="48" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="48" alt="Database" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" height="48" alt="Tools" /><br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Badge" />
 </p>
 
 ---
