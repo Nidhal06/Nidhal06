@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Nidhal06">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=It's+me+again+👋;I'm+a+Full+Stack+Developer+💻;Frontend+Developer+🎨;Backend+Developer+🧠;and+Web+Designer+✨" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=It's+me+again+👋;I'm+a+Full+Stack+Developer+💻;Frontend+Developer+🎨;Backend+Developer+🧠;and+Web+Designer+✨&repeat=true"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
