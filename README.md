@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/nidhalgharbi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=It's+me+again+👋;I'm+a+Full+Stack+Developer+💻;Frontend+Developer+🎨;Backend+Developer+🧠;and+Web+Designer+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=It%27s+me+again+👋;I%27m+a+Full+Stack+Developer+💻;Frontend+Developer+🎨;Backend+Developer+🧠;and+Web+Designer+✨" alt="Typing SVG" />
   </a>
 </p>
 
