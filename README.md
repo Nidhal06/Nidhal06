@@ -6,8 +6,10 @@
   </a>
 </p>
 
-🚀 **Full Stack Developer** | Passionate about building responsive, scalable, and AI-powered web applications.  
-![coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFudnQ3YjlhZGdzYXdrMHZ4aTNnamQ5am10MnRyaXRoeHpraGhqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
+<p align="center">
+🚀 <b>Full Stack Developer</b> | Passionate about building responsive, scalable, and AI-powered web applications.<br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFudnQ3YjlhZGdzYXdrMHZ4aTNnamQ5am10MnRyaXRoeHpraGhqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding" />
+</p>
 
 ---
 
