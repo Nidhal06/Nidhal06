@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Nidhal Gharbi  
 
-🚀 **Full Stack Developer** | Passionate about building responsive, scalable, and AI-assisted web applications.   ![coding](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <a href="https://github.com/nidhalgharbi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=It's+me+again+👋;I'm+a+Full+Stack+Developer+💻;Frontend+Developer+🎨;Backend+Developer+🧠;and+Web+Designer+✨" alt="Typing SVG" />
+  </a>
+</p>
+
+🚀 **Full Stack Developer** | Passionate about building responsive, scalable, and AI-assisted web applications.  
+![coding](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
