@@ -11,7 +11,7 @@
 - 💻 Certified **Full Stack Developer (Angular & Spring Boot)** — *9antra.tn, The Bridge*  
 - 🤖 Currently training in **Software Development with AI Skills** — *GOMYCODE, Bardo*  
 - 🧩 Experienced in **frontend and backend integration**, **REST APIs**, and **cloud deployment**  
-- ⚙️ Love working with **Angular**, **React**, **Spring Boot**, **Node.js**, **Express**, and **MongoDB**  
+- ⚙️ Love working with **React**, **Node.js**, **Express**, and **MongoDB**  
 - 💡 Enthusiastic about **AI-powered development**, **modern web frameworks**, and **clean architecture**  
 - 📫 Reach me at: **nidhalgharbi5@gmail.com**  
 - 📞 Phone: **(+216) 99 078 443**
@@ -26,7 +26,7 @@
 - Responsive UI & State Management
 
 ### ⚙️ Backend
-- Node.js, Express.js, Spring Boot (Java)
+- Node.js, Express.js
 - REST APIs, Authentication, Deployment
 
 ### 🗄️ Databases
