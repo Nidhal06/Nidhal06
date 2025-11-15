@@ -48,7 +48,7 @@ Currently focused on mastering **AI-assisted software development**, and always 
   <a href="https://www.linkedin.com/in/nidhal-gharbi-536140385">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://this-my-resume.netlify.app/">
+  <a href="https://nidhal-gharbi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
