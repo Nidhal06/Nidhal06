@@ -28,7 +28,7 @@ Currently focused on mastering **AI-assisted software development**, and always 
 
 ## 🧠 Skills
 
-<div style="display: flex; flex-wrap: wrap; align:center; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;" align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
